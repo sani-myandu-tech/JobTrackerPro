@@ -34,12 +34,12 @@ running locally).
 
 This started as a university capstone project and went through a second pass to
 close gaps between what the original spec/assessment notes claimed and what the
-code actually did — see the git history for specifics:
+code actually did see the git history for specifics:
 
 - CV text extraction now uses real PDF parsing (PdfBox-Android) instead of a raw
   byte-scan hack that only worked on simple, uncompressed PDFs
 - The encrypted local storage mentioned in the original spec was a declared but
-  unused dependency — it's now actually wired up, caching the user's CV text
+  unused dependency it's now actually wired up, caching the user's CV text
   (genuinely personal data) encrypted at rest
 
 Full technical writeup of what was found and fixed is in
@@ -47,9 +47,9 @@ Full technical writeup of what was found and fixed is in
 
 ## Known limitations
 
-- PDF parsing can't OCR scanned/image-only PDFs — text-based PDFs only
+- PDF parsing can't OCR scanned/image-only PDFs text-based PDFs only
 - No automated test suite yet
 
 ## Author
 
-Lungisani Mnyandu — [GitHub](https://github.com/sani-mnyandu-tech) · [LinkedIn](https://linkedin.com/in/lungisani-mnyandu)
+Lungisani Mnyandu — [GitHub](https://github.com/sani-myandu-tech) · [LinkedIn](https://linkedin.com/in/lungisani-mnyandu)
