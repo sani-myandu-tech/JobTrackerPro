@@ -1,4 +1,4 @@
-# 🚀 JobTracker Pro — Setup Guide
+# JobTracker Pro — Setup Guide
 
 ## What this app covers (assessment spec)
 - ✅ Full CRUD (Read, Insert, Edit, Delete) via Room + Firebase Firestore
