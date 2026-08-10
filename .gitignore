@@ -1,0 +1,19 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.apk
+*.aab
+
+# Real Firebase config — template is tracked, the real file is not
+app/google-services.json
+
+# Keystore files
+*.jks
+*.keystore

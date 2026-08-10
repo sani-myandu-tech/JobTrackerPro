@@ -1,0 +1,10 @@
+-keep class com.jobtracker.data.remote.api.** { *; }
+-keep class com.jobtracker.domain.model.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn okio.**
+-dontwarn retrofit2.**
+-keep class retrofit2.** { *; }
+-keep class com.google.gson.** { *; }
+-keep class com.google.firebase.** { *; }

@@ -1,0 +1,9 @@
+// ══════════════════════════════════════════════════════════════════
+//  REPLACE THIS FILE WITH YOUR REAL google-services.json
+//  Steps:
+//  1. Go to https://console.firebase.google.com
+//  2. Create project → Add Android app → package: com.jobtracker
+//  3. Download google-services.json
+//  4. Delete THIS file and put the real one here (same folder: app/)
+//  5. The real file starts with { "project_info": { ... } }
+// ══════════════════════════════════════════════════════════════════
