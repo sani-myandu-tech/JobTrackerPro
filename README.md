@@ -1,7 +1,7 @@
 # JobTracker Pro
 
 An Android job-application tracker with AI-assisted CV matching, built with Kotlin
-and Jetpack Compose. Offline-first (Room + Firestore sync), with two real OpenAI-backed
+and Jetpack Compose. Offline-first (Room +Firestore sync), with two real OpenAI-backed
 features: a CV-vs-job-description analyser and an in-app assistant chatbot.
 
 ## Features
