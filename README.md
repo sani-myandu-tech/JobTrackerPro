@@ -27,7 +27,7 @@ Storage) · Retrofit/OkHttp · WorkManager · PdfBox-Android · MPAndroidChart
 
 ## Setup
 
-See[SETUP_GUIDE.md](SETUP_GUIDE.md) for full setup steps (Firebase config, API keys,
+See [SETUP_GUIDE.md](SETUP_GUIDE.md) for full setup steps (Firebase config, API keys,
 running locally).
 
 ## Notes on this codebase
